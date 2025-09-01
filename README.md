@@ -1,5 +1,10 @@
-Esse foi um projeto que fiz recentemente utilizando Html, CSS e Javascript.
+LINK PARA O SITE DA CALCULADORA WEB: https://gabriel-d-anjos.github.io/Calculadora-Web/
+
+Descrição do projeto:
+
+Esse foi um projeto que fiz recentemente utilizando HTML, CSS e JavaScript.
 Utilizei vários vídeos, materiais e conteúdos de apoio para a realização desse projeto. Minha maior base para o projeto foi este vídeo https://youtu.be/FbpwGnKSkJU?si=YgIfieN4sIlSqPMt.
+
 Fiz algumas alterações no projeto, como:
 
 HTML
@@ -27,3 +32,7 @@ Passei a chamá-la junto de updateResult() sempre que algo muda.
 Resultado:
 
 Um visor de expressão e outro visor de resultado. Assim, o usuário sempre vê o cálculo em andamento.
+
+*nota
+
+caso tenha alguma sugestão/ideia sobre o que posso melhorar fico a disposição para receber feedbacks.
