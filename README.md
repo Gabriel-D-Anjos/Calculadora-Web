@@ -1,4 +1,4 @@
-Esse foi um projeto que fiz recentemente utilizando Html, css e Javascript.
+Esse foi um projeto que fiz recentemente utilizando Html, CSS e Javascript.
 Utilizei vários vídeos, materiais e conteúdos de apoio para a realização desse projeto. Minha maior base para o projeto foi este vídeo https://youtu.be/FbpwGnKSkJU?si=YgIfieN4sIlSqPMt.
 Fiz algumas alterações no projeto, como:
 
